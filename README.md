@@ -10,8 +10,8 @@ BG_IMG = 前端页面背景图直链，如：https://raw.githubusercontent.com/y
 在上方输入框填入节点或订阅，支持批量格式化多条
 点击格式化按钮，下方输入框将显示base64编码后的节点内容
 复制输入框内容导入 v2rayN 客户端即可
-默认显示国旗、国家代码、自定义后缀，即时取消所有勾选，也会显示国家代码
-image
+默认显示国旗、城市名称、自定义后缀，即时取消所有勾选，也会显示国家代码
+<img width="1912" height="902" alt="image" src="https://github.com/user-attachments/assets/aa59db7a-c297-4508-bda3-3f20a6356b4f" />
 
 注意：不支持clash类订阅；不支持直接输入base64编码的节点
 
@@ -21,3 +21,5 @@ vless、vmess、hysteria2、tuic、ss、trojan
 支持API
 可以直接使用浏览器访问 https://项目域名/sub/vless节点链接 格式化单个节点的名称
 或者访问 https://项目域名/sub/https订阅链接 批量格式化整个订阅的节点名称
+感谢：yutian81 
+在他代码基础上修改而来

@@ -21,5 +21,6 @@ vless、vmess、hysteria2、tuic、ss、trojan
 支持API
 可以直接使用浏览器访问 https://项目域名/sub/vless节点链接 格式化单个节点的名称
 或者访问 https://项目域名/sub/https订阅链接 批量格式化整个订阅的节点名称
-感谢：yutian81 
+
+感谢：yutian81 https://github.com/yutian81
 在他代码基础上修改而来
